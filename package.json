@@ -1,7 +1,7 @@
 {
-  "name": "reqformimpl",
+  "name": "pdfformimpl",
   "version": "1.0.0",
-  "description": "Req form data",
+  "description": "PDF form data",
   "main": "src/index.js",
   "scripts": {
     "start":"node startServer.js",
